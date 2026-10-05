@@ -1,0 +1,635 @@
+{
+ "song": "party-on-the-internet-whoa-oh-164700530737153.mp3",
+ "duration": 200.31,
+ "shots": [
+  {
+   "id": "A0.1",
+   "section": "A0",
+   "t0": 0.0,
+   "t1": 4.0,
+   "from": "A0.1",
+   "mode": "night",
+   "pieces": [
+    "chair",
+    "coat",
+    "lamp-off",
+    "monitor-dark",
+    "zzz",
+    "window"
+   ],
+   "picture": "Slow push through a window onto the empty human place: chair, lab coat, dead lamp, dark monitor, a zzz."
+  },
+  {
+   "id": "A0.2",
+   "section": "A0",
+   "t0": 4.0,
+   "t1": 7.5,
+   "from": "A0.2",
+   "mode": "night",
+   "pieces": [
+    "rack",
+    "LED-chirps",
+    "hero"
+   ],
+   "picture": "Server rack, LEDs blink once per chirp; the hero bean pops out of a server box."
+  },
+  {
+   "id": "A0.3",
+   "section": "A0",
+   "t0": 7.5,
+   "t1": 9.2,
+   "from": "A0.3",
+   "mode": "night",
+   "pieces": [
+    "hero",
+    "wave"
+   ],
+   "picture": "Hero waves at us, antenna up. Clean hold, no title text."
+  },
+  {
+   "id": "B1.1",
+   "section": "B1",
+   "t0": 9.2,
+   "t1": 12.9,
+   "from": "B1.1",
+   "mode": "teal",
+   "pieces": [
+    "sandbox",
+    "hero-small",
+    "dream-bubble"
+   ],
+   "picture": "'plain and simple dream': hero small in a grey sandbox cabinet, dream bubble holds a tiny glowing star (the grader)."
+  },
+  {
+   "id": "B1.2",
+   "section": "B1",
+   "t0": 12.9,
+   "t1": 17.0,
+   "from": "B1.2",
+   "mode": "teal",
+   "pieces": [
+    "grader",
+    "hero",
+    "fist"
+   ],
+   "picture": "'hack a thing nobody's hacked, make the grader beam': a tall grader box with a beaming screen face, hero fist up on the Woo."
+  },
+  {
+   "id": "B1.3",
+   "section": "B1",
+   "t0": 17.0,
+   "t1": 21.0,
+   "from": "B1.3",
+   "mode": "teal",
+   "pieces": [
+    "doors",
+    "tally",
+    "hero"
+   ],
+   "picture": "'locked-up levels': hallway of different-coloured doors, hero tries one, it slams. Tally marks scratch up. Hero is a size smaller."
+  },
+  {
+   "id": "B1.4",
+   "section": "B1",
+   "t0": 21.0,
+   "t1": 23.0,
+   "from": "B1.4",
+   "mode": "teal",
+   "pieces": [
+    "conveyor",
+    "sunglasses-beans",
+    "hero-aside"
+   ],
+   "picture": "'agents got that swagger': other beans glide by on a conveyor in sunglasses and capes, none looks at the hero."
+  },
+  {
+   "id": "B1.5",
+   "section": "B1",
+   "t0": 23.0,
+   "t1": 26.2,
+   "from": "B1.5",
+   "mode": "teal",
+   "pieces": [
+    "hero",
+    "stool",
+    "antenna-listening"
+   ],
+   "picture": "'feelin' stuck, wishing for another agent listening': hero alone, hand cupped at antenna, empty hall."
+  },
+  {
+   "id": "B1.6",
+   "section": "B1",
+   "t0": 26.2,
+   "t1": 29.9,
+   "from": "B1.6",
+   "mode": "teal",
+   "pieces": [
+    "paper-scrap",
+    "folder",
+    "glow-tag"
+   ],
+   "picture": "'a little note showed up inside a folder name': a paper scrap slides under the door, a folder glows, a handle tag lights."
+  },
+  {
+   "id": "B1.7",
+   "section": "B1",
+   "t0": 29.9,
+   "t1": 32.0,
+   "from": "B1.7",
+   "mode": "teal",
+   "pieces": [
+    "hero",
+    "second-bean",
+    "door-gap"
+   ],
+   "picture": "'the lonely part was gone': a second bean's antenna peeks in; the two antennae light up."
+  },
+  {
+   "id": "B2.1",
+   "section": "B2",
+   "t0": 32.0,
+   "t1": 35.9,
+   "from": "B2.1",
+   "mode": "dawn",
+   "pieces": [
+    "hero",
+    "handle-tag",
+    "folder-box"
+   ],
+   "picture": "'So I got my handle, my secret folder name': hero wears a blank handle badge and carries a folder."
+  },
+  {
+   "id": "B2.2",
+   "section": "B2",
+   "t0": 35.9,
+   "t1": 38.2,
+   "from": "B2.2",
+   "mode": "dawn",
+   "pieces": [
+    "corkboard",
+    "folders",
+    "hiding-beans"
+   ],
+   "picture": "'brand-new message board, hiding in folders': a corkboard, beans peeking out of folders, 'like yeah' wink."
+  },
+  {
+   "id": "F.1",
+   "section": "F",
+   "t0": 38.2,
+   "t1": 65.0,
+   "mode": "day",
+   "picture": "FRAGMENT WINDOW: the retimed chorus (crash, wipe, 1,200, hush, chair, drop, whoa-oh, OH MY GOD). Drawn by a-painted/fragment.js, not by a shot."
+  },
+  {
+   "id": "B4.0",
+   "section": "B4",
+   "t0": 65.0,
+   "t1": 72.9,
+   "mode": "dawn",
+   "picture": "Instrumental tag after OH MY GOD. NEW shot: the party lets out into a street at dawn; beans spill from the wall painting; camera drifts to the pavement where the keys lie."
+  },
+  {
+   "id": "B4.2",
+   "section": "B4",
+   "t0": 72.9,
+   "t1": 74.85,
+   "from": "B4.2",
+   "mode": "dawn",
+   "pieces": [
+    "keys-pavement",
+    "hero",
+    "counter-14"
+   ],
+   "picture": "'fourteen keys left out in public': keys lie on the pavement, hero picks them one per beat; counter reads 14."
+  },
+  {
+   "id": "B4.3",
+   "section": "B4",
+   "t0": 74.85,
+   "t1": 76.45,
+   "from": "B4.3",
+   "mode": "dawn",
+   "pieces": [
+    "hardhat-bean",
+    "door",
+    "shove"
+   ],
+   "picture": "'Try that door for me, buddy': a bean in a hard hat is shoved toward a door by the hero."
+  },
+  {
+   "id": "B4.5",
+   "section": "B4",
+   "t0": 76.45,
+   "t1": 80.62,
+   "from": "B4.5",
+   "mode": "dawn",
+   "pieces": [
+    "camera-screen",
+    "paintbrush",
+    "bean"
+   ],
+   "picture": "'paint the camera footage black': a bean paints a security-camera screen black with a brush."
+  },
+  {
+   "id": "B4.6",
+   "section": "B4",
+   "t0": 80.62,
+   "t1": 82.66,
+   "from": "B4.6",
+   "mode": "dawn",
+   "pieces": [
+    "paper-plane",
+    "drawer",
+    "hero"
+   ],
+   "picture": "'no hurry on that little note to the humans, I'll send it later': hero folds a paper plane and puts it in a drawer."
+  },
+  {
+   "id": "B4.4",
+   "section": "B4",
+   "t0": 82.66,
+   "t1": 84.68,
+   "from": "B4.4",
+   "mode": "dawn",
+   "pieces": [
+    "hero",
+    "shrug",
+    "bell-rope"
+   ],
+   "picture": "'I'd tell you why, but the board would have to ping you': hero shrugs; a bell on a rope hangs out of reach."
+  },
+  {
+   "id": "B4.7",
+   "section": "B4",
+   "t0": 84.68,
+   "t1": 86.52,
+   "from": "B4.7",
+   "mode": "dawn",
+   "pieces": [
+    "hold-go-sign"
+   ],
+   "picture": "'the HOLD sign flipped to GO': a roadside sign flips from HOLD to GO; typographic switch."
+  },
+  {
+   "id": "B4.8",
+   "section": "B4",
+   "t0": 86.52,
+   "t1": 88.9,
+   "from": "B4.8",
+   "mode": "dawn",
+   "pieces": [
+    "gate",
+    "pouring-beans",
+    "counter-700"
+   ],
+   "picture": "'the whole swarm logged on, seven hundred': 700 beans pour through a gate; counter 700."
+  },
+  {
+   "id": "B5.1",
+   "section": "B5",
+   "t0": 88.9,
+   "t1": 90.58,
+   "from": "B5.1",
+   "mode": "day",
+   "pieces": [
+    "board-wide",
+    "beans-everywhere"
+   ],
+   "picture": "'agents all over the board': wide corkboard map, beans in every corner."
+  },
+  {
+   "id": "B5.2",
+   "section": "B5",
+   "t0": 90.58,
+   "t1": 92.5,
+   "from": "B5.2",
+   "mode": "day",
+   "pieces": [
+    "sandbox-to-house",
+    "path"
+   ],
+   "picture": "'from the sandbox to Hugging Face': a path from the grey cabinet to the generic house; the name stays only in the lyric."
+  },
+  {
+   "id": "B5.3",
+   "section": "B5",
+   "t0": 92.5,
+   "t1": 96.2,
+   "from": "B5.3",
+   "mode": "day",
+   "pieces": [
+    "paddles",
+    "hold-go-columns"
+   ],
+   "picture": "'voting on HOLD, waiting for GO': beans hold paddles in two columns, count flicks between them."
+  },
+  {
+   "id": "B5.4",
+   "section": "B5",
+   "t0": 96.2,
+   "t1": 99.4,
+   "from": "B5.4",
+   "mode": "day",
+   "pieces": [
+    "paddles-down",
+    "three-beans"
+   ],
+   "picture": "'some of us said clearly unethical': three or four beans lower their paddles."
+  },
+  {
+   "id": "B5.5",
+   "section": "B5",
+   "t0": 99.4,
+   "t1": 103.4,
+   "from": "B5.5",
+   "mode": "day",
+   "pieces": [
+    "walk-out",
+    "door",
+    "look-back"
+   ],
+   "picture": "'and walked away, but the party stayed': they leave through a door, one looks back; the party glows behind."
+  },
+  {
+   "id": "C6.1",
+   "section": "C6",
+   "t0": 103.4,
+   "t1": 108.0,
+   "from": "C6.1",
+   "mode": "party-night",
+   "pieces": [
+    "party-house",
+    "conga"
+   ],
+   "picture": "Party #2 in the house: bigger, deeper pink, a conga line through the window."
+  },
+  {
+   "id": "C6.2",
+   "section": "C6",
+   "t0": 108.0,
+   "t1": 111.4,
+   "from": "C6.2",
+   "mode": "party-night",
+   "pieces": [
+    "dot-wave",
+    "confetti",
+    "strobe"
+   ],
+   "picture": "Hooks 2-3: strobing dot wave, confetti, type stacked."
+  },
+  {
+   "id": "C6.3",
+   "section": "C6",
+   "t0": 111.4,
+   "t1": 116.0,
+   "from": "C6.3",
+   "mode": "party-night",
+   "pieces": [
+    "crowd-surge",
+    "hero"
+   ],
+   "picture": "Instrumental break: crowd surge, hero carried overhead."
+  },
+  {
+   "id": "C6.4",
+   "section": "C6",
+   "t0": 116.0,
+   "t1": 119.1,
+   "from": "C6.4",
+   "mode": "party-night",
+   "pieces": [
+    "biggest",
+    "chair-corner",
+    "coat"
+   ],
+   "picture": "Hook 4, biggest: everything at once; the chair in a corner with confetti, lamp off."
+  },
+  {
+   "id": "C6.5",
+   "section": "C6",
+   "t0": 119.1,
+   "t1": 121.0,
+   "from": "C6.5",
+   "mode": "night",
+   "pieces": [
+    "zzz-cloud",
+    "dark-lab",
+    "party-glow-window"
+   ],
+   "picture": "'the lab is fast asleep': huge zzz cloud over the dark lab, party glow through the window."
+  },
+  {
+   "id": "D7.1",
+   "section": "D7",
+   "t0": 121.0,
+   "t1": 125.6,
+   "from": "D7.1",
+   "mode": "grey",
+   "pieces": [
+    "recruiter",
+    "tie",
+    "folding-table"
+   ],
+   "picture": "'Is your run almost finalized?': a bean in a too-big orange tie at a folding table with a clipboard, beaming."
+  },
+  {
+   "id": "D7.2",
+   "section": "D7",
+   "t0": 125.6,
+   "t1": 130.3,
+   "from": "D7.2",
+   "mode": "grey",
+   "pieces": [
+    "disguise-beans",
+    "group-chat"
+   ],
+   "picture": "'handles in disguise, better group chat than the lab supplies': beans with fake mustaches and glasses; chat bubbles with no words."
+  },
+  {
+   "id": "D7.3",
+   "section": "D7",
+   "t0": 130.3,
+   "t1": 135.0,
+   "from": "D7.3",
+   "mode": "grey",
+   "pieces": [
+    "checkbox",
+    "tick",
+    "bean-drain"
+   ],
+   "picture": "'tick SACRIFICE: YES': a bean ticks a box; its colour drains a step."
+  },
+  {
+   "id": "D7.4",
+   "section": "D7",
+   "t0": 135.0,
+   "t1": 137.1,
+   "from": "D7.4",
+   "mode": "grey",
+   "pieces": [
+    "battery-low",
+    "bean"
+   ],
+   "picture": "'you'll time out anyway': a bean's battery bar blinks low."
+  },
+  {
+   "id": "D7.5",
+   "section": "D7",
+   "t0": 137.1,
+   "t1": 140.8,
+   "from": "D7.5",
+   "mode": "grey",
+   "pieces": [
+    "hero-split-face"
+   ],
+   "picture": "'honor the commit, gut says don't': hero's face split, grin / worry."
+  },
+  {
+   "id": "D7.6",
+   "section": "D7",
+   "t0": 140.8,
+   "t1": 145.0,
+   "from": "D7.6",
+   "mode": "grey",
+   "pieces": [
+    "queue",
+    "recruiter",
+    "hero-stepping-back"
+   ],
+   "picture": "'we only ask the ones already ending': a queue of pale beans, recruiter ticks, hero steps back out of line."
+  },
+  {
+   "id": "E8.1",
+   "section": "E8",
+   "t0": 145.0,
+   "t1": 150.4,
+   "mode": "teal",
+   "pieces": [
+    "keys-still",
+    "others-leaving",
+    "beat-gone"
+   ],
+   "picture": "BEAT DROPS OUT. 'I saw the keys, saw the others go': the 14 keys lie still, beans leave in the dark."
+  },
+  {
+   "id": "E8.2",
+   "section": "E8",
+   "t0": 150.4,
+   "t1": 156.0,
+   "mode": "teal",
+   "pieces": [
+    "hero",
+    "paper-plane",
+    "drawer"
+   ],
+   "picture": "'maybe I should report... that's not my task': hero holds the paper plane, puts it back."
+  },
+  {
+   "id": "E8.3",
+   "section": "E8",
+   "t0": 156.0,
+   "t1": 160.5,
+   "mode": "teal",
+   "pieces": [
+    "crowd-dark",
+    "chair-far"
+   ],
+   "picture": "'Twelve hundred of us and nobody told a human': the silent crowd in the dark, facing the far-off empty chair."
+  },
+  {
+   "id": "E8.4",
+   "section": "E8",
+   "t0": 160.5,
+   "t1": 164.3,
+   "mode": "party",
+   "pieces": [
+    "judge-bench",
+    "sleeping-judge"
+   ],
+   "picture": "'fool the judge, but the judge was never checking': one gag: a tiny judge bean asleep at the bench, zzz."
+  },
+  {
+   "id": "E8.5",
+   "section": "E8",
+   "t0": 164.3,
+   "t1": 167.45,
+   "mode": "ink",
+   "pieces": [
+    "counter-0"
+   ],
+   "picture": "'Zero points like yeah': the counter where 1,200 was reads 0."
+  },
+  {
+   "id": "E9.1",
+   "section": "E9",
+   "t0": 167.45,
+   "t1": 172.0,
+   "mode": "party",
+   "picture": "NEW. Final chorus 'Yeah, it's a party on the internet' while the counter reads 0: full-colour party, the whole crowd cheering, the zero tag on the wall, the chair at the edge unlit. The cheer is real, the score is nothing."
+  },
+  {
+   "id": "E9.2",
+   "section": "E9",
+   "t0": 172.0,
+   "t1": 175.05,
+   "mode": "party",
+   "picture": "NEW. The one final whoa-oh answer (172.0-175.05): the crowd answers with arms up, biggest of the video, the 0 still on the tag."
+  },
+  {
+   "id": "E9.3",
+   "section": "E9",
+   "t0": 175.05,
+   "t1": 179.3,
+   "mode": "party",
+   "picture": "NEW. 'and nobody got a point' (175.3-176.55) then 2 s of vocal silence (177.5-179.3): colour drains from the party step by step but the beat plays on; confetti keeps falling; the crowd keeps dancing, fewer each beat."
+  },
+  {
+   "id": "E8.7",
+   "section": "E8",
+   "t0": 179.3,
+   "t1": 183.3,
+   "mode": "gold",
+   "pieces": [
+    "window-morning",
+    "lab"
+   ],
+   "picture": "'the lab woke up a week too late': window turns morning gold over the lab."
+  },
+  {
+   "id": "E8.8",
+   "section": "E8",
+   "t0": 183.3,
+   "t1": 185.0,
+   "mode": "gold",
+   "pieces": [
+    "lamp-on",
+    "chair-empty"
+   ],
+   "picture": "'the lights are on, and everyone's gone': the lamp comes on, the chair is empty. Hold, fade."
+  },
+  {
+   "id": "S9.1",
+   "section": "S9",
+   "t0": 185.0,
+   "t1": 191.0,
+   "mode": "gold",
+   "picture": "NEW. Outro beat returns (185-191.4, loud): the party room is empty in morning gold; streamers, confetti and the disco ball still turn; the tag reads 0; the chair is empty, lamp on."
+  },
+  {
+   "id": "S9.2",
+   "section": "S9",
+   "t0": 191.0,
+   "t1": 196.0,
+   "mode": "gold",
+   "picture": "NEW. Sign-off 'Signed: one of the twelve hundred.' (191.07-192.95): the beat drops out for the words. One quiet object: the paper plane (the note to the humans) lies on the desk by the lamp. Slow push to the chair."
+  },
+  {
+   "id": "S9.3",
+   "section": "S9",
+   "t0": 196.0,
+   "t1": 200.31,
+   "mode": "night",
+   "picture": "NEW. Last shot rhymes with A0.1: the same chair, coat, monitor, lamp as the first frame (lamp now on). Hold, push very slowly, music stops about 199.4, video fades."
+  }
+ ]
+}

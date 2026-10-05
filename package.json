@@ -1,0 +1,9 @@
+{
+  "name": "party-on-the-internet-making-of",
+  "version": "1.0.0",
+  "description": "Render pipeline for the Party on the Internet music videos (canvas JS + Playwright + ffmpeg)",
+  "type": "module",
+  "dependencies": {
+    "playwright-core": "^1.40.0"
+  }
+}
